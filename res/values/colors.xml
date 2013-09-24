@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tabMedium">#333333</color> <!-- 2B2B2B -->
+    <color name="tabDark">#010101</color> <!-- 000000 -->
+    <color name="tabTransparent">#10ffffff</color>
+    <color name="red">#0097F0</color>
+    <color name="titleBackground">#DBDBDB</color>
+</resources>
